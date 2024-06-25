@@ -16,7 +16,6 @@
 
 - 🚀 **Projets phares** :
   - **[Chess](https://github.com/dolvui/Chess)** : Une implementation de chess en cpp avec des algo minmax et plus
-  - **[Bomberman](https://github.com/dolvui/jws)** : Implémentation d'un bomberman en java
    De nombreux projets epita sont en private , comming soon ...
 
 ## Contact
