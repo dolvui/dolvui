@@ -16,7 +16,8 @@
 
 - 🚀 **Projets phares** :
   - **[Chess](https://github.com/dolvui/Chess)** : Une implementation de chess en cpp avec des algo minmax et plus
-   De nombreux projets epita sont en private , comming soon ...
+
+De nombreux projets epita sont en private , comming soon ...
 
 ## Contact
 
