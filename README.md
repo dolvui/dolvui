@@ -1,34 +1,47 @@
-# Bienvenue sur mon profil GitHub !
+# dolvui
 
-👋 Salut ! Je suis Dolvui, un développeur passionné par l'algorithmie et les langages de programmation bas-niveau comme C et C++. Mon objectif principal est de créer des solutions optimisées et élégantes pour des problèmes complexes.
-
-## À propos de moi
-
-- 🌟 **Langages principaux** : 
-  - C++
-  - C
-  - Java
-  - JavaScript
-
-- 💻 **Centres d'intérêt** :
-  - Développement d'algorithmes performants
-  - Conception et optimisation de structures de données
-
-- 🚀 **Projets phares** :
-  - **[Chess](https://github.com/dolvui/Chess)** : Une implementation de chess en cpp avec des algo minmax et plus.
-
-De nombreux projets epita sont en private , comming soon ...
-
-## Contact
-
-Je suis toujours ouvert à des discussions sur les algorithmes, les structures de données et tout ce qui touche au développement logiciel. N'hésitez pas à me contacter !
-
-- 📧 Email : [noa.ghidalia@epita.fr](noa.ghidalia@epita.fr)
-- 💼 LinkedIn : [Noa Ghidalia](https://www.linkedin.com/in/noa-ghidalia-1877012b6/)
-
-Merci de visiter mon profil ! 🌟
+low-level enjoyer; algo / perf / systems
 
 ---
 
-"Le code est comme une poésie : chaque ligne doit être pensée et ciselée pour exprimer l'essence de l'algorithme."
+## about
 
+i like understanding how things *actually* work
+then making them faster, cleaner, and simpler
+
+c / c++ first, always
+
+---
+
+## projects
+
+* **chess**: minimax, decision logic, pure c++
+* **wall-street**: market data, algo experiments
+* **chronos** : langague time / execution oriented system work
+* **deadinternettheory**: bots & automation (just for fun)
+
+- epita projects (private for now):
+  shell, compiler, ide, network tools…
+
+---
+
+## stack
+
+c / c++
+python
+java
+js
+
+---
+
+## mindset
+
+> code should not just work
+> it should *make sense*
+
+---
+
+## contact
+
+- [noa.ghidalia@epita.fr](mailto:noa.ghidalia@epita.fr)
+- [linkedin](https://www.linkedin.com/in/noa-ghidalia-1877012b6/)
